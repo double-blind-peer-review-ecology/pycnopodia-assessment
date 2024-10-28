@@ -1,4 +1,4 @@
-# Pycnopodia helianthoides population decline manuscript
+# *Pycnopodia helianthoides* population decline manuscript
 This repository contains the code, model outputs and figures for the time series and spatial analyses for *Pycnopodia helianthoides* in Canada for our submitted mauscript.
 
 *Code*
