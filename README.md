@@ -1,10 +1,11 @@
+# Pycnopodia helianthoides population decline manuscript
 This repository contains the code, model outputs and figures for the time series and spatial analyses for *Pycnopodia helianthoides* in Canada for our submitted mauscript.
 
-## Code
+*Code*
 
 All `.R` files with the prefix `cleaning_` contain code to process the raw data from each source for use in the analyses. The `custom_functions.R` script contains custom functions designed for use with these analyses - this must be sourced at the beginning of each R script to be able to access these functions. All code is heavily annotated to allow for greater readibility, but if you have any questions or concerns, please feel free to get in touch.
 
-## Figures
+*Figures*
 
 The figures folder contains all of the figures in the main text and appendix.
 
