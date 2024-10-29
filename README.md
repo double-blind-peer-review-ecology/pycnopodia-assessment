@@ -5,9 +5,9 @@ This repository contains the code, model outputs and figures for the time series
 
 All `.R` files with the prefix `cleaning_` contain code to process the raw data from each source for use in the analyses. The `custom_functions.R` script contains custom functions designed for use with these analyses - this must be sourced at the beginning of each R script to be able to access these functions. All code is heavily annotated to allow for greater readibility, but if you have any questions or concerns, please feel free to get in touch.
 
-*Figures*
+*Data*
 
-The figures folder contains all of the figures in the main text and appendix.
+Open access data, including the original IUCN compilation, are stored in this folder. Some of the datasets cannot be shared publicly by owner's request, so please reach out if you would like to be put in touch with the original contributor.
 
 Session Info
 ```
